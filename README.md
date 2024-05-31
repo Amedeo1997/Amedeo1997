@@ -34,5 +34,5 @@ I'm a junior developer with a strong passion for the back-end and object-oriente
 Feel free to ask me about anything related to the technologies I'm familiar with, especially backend development and object-oriented programming.
 
 ## 📫 How to reach me:
-- **LinkedIn:** ([https://www.linkedin.com/in/your-linkedin-username](https://www.linkedin.com/in/ahmed-salhi-658b92257/))
+- **LinkedIn:** ([https://www.linkedin.com/in/ahmed-salhi](https://www.linkedin.com/in/ahmed-salhi-658b92257/))
 - **Email:** sali.amedeo@gmail.com
